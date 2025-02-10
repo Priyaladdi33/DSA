@@ -15,9 +15,6 @@ This project contains implementations of various algorithms and data structures,
   - Merge Sort
   - Quick Sort
 
-- **Utility Functions**
-  - Parenthesis Check
-  - Palindrome Check
 
 ## Required Software
 
